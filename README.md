@@ -14,6 +14,6 @@ To do so, follow the instructions on the [Phidget](https://www.phidgets.com/docs
 	
 python -m pip install -U pip --proxy http://username:password@proxy_url:port 
 
-##Example
+## Example
 
 
